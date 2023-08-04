@@ -11,7 +11,6 @@ import org.junit.Before
 import org.junit.Test
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import retrofit2.create
 
 class NewsApiServicesTest {
     private lateinit var newsApiServices: NewsApiServices
